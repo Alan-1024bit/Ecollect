@@ -1,0 +1,9 @@
+Faltam:
+    1. Página inicial, index.php;
+Melhorar:
+    1. Estilização de máscara Jquery em Cadastrar_Desc.php
+        e Cadastrar_Col.php;
+    2. Rodapé que se adapta ao conteúdo da página, ficando sempre no fim.
+    
+
+ 
